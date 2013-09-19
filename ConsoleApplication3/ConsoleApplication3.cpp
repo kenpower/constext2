@@ -6,6 +6,9 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
+	//dasdas
+	//asdasd
+
 	return 0;
 
 }
